@@ -1,2 +1,0 @@
-"Dr. Smith"
-"Ms. Johnson"
